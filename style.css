@@ -1,0 +1,16 @@
+{
+	margin: 0;
+	padding: 0;
+} html, body{
+	height: 100%;
+}
+body {
+	background: url('https://images.unsplash.com/photo-1464096338057-a1b7055ef5cb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4853d0ef5f92401fce8d2e6b39ca9418&w=1000&q=80') no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+}
+.container{
+	width: 680px;
+	margin: 0 auto;
+}
